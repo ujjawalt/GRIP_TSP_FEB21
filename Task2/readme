@@ -1,0 +1,4 @@
+K-Means Clustering is a Classification algorithm used to categorize given data into possible classes.
+
+The famous Iris data is used here which have multiple 'independent Variable' and three 'dependent variables'.
+iris data ia available at : https://bit.ly/3kXTdox
